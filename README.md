@@ -111,14 +111,13 @@ Atualmente, estou cursando **Tecnologia da Informação** pela **UNIVESP** e me 
 ### 📫 Como me encontrar: 
 
 <div style="display: inline-block;">
-
-  <a href="https://www.linkedin.com/in/willyan-leocadio/"  style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/willyan-leocadio/"  style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;" target="_blank" >
     <img src="https://img.icons8.com/?size=40&id=13930&format=png&color=000000" alt="LinkedIn Icon">
   </a>
-  <a href="https://www.instagram.com/wisliso/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; " target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/wisliso/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; " target="_blank">
     <img src="https://img.icons8.com/?size=40&id=Xy10Jcu1L2Su&format=png&color=000000" alt="LinkedIn Icon">
   </a>
-  <a href="mailto:willyannov@hotmail.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:willyannov@hotmail.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;" target="_blank">
     <img src="https://img.icons8.com/?size=40&id=LPcVDft9Isqt&format=png&color=000000" alt="LinkedIn Icon">
   </a>
 </div>
