@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Willyan Leocadio
 
-**`Estudante TI / Desenvolvedor Automação`**
+**`Desenvolvedor Automação / Estudante TI  `**
 
 Sou de **Boituva-SP**, apaixonado por tecnologia desde criança. Ganhei meu primeiro computador aos **6 anos de idade**, e desde então, meu interesse por entender e criar soluções tecnológicas só tem crescido.
 Atualmente, estou cursando **Tecnologia da Informação** pela **UNIVESP** e me aprofundando em **automação com Python** e **desenvolvimento Fullstack**.
