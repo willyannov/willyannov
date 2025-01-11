@@ -108,6 +108,8 @@ Atualmente, estou cursando **Tecnologia da Informação** pela **UNIVESP** e me 
 <br/>
 <br/>
 
+---
+
 ### 📫 Como me encontrar: 
 
 <div style="display: inline-block;">
