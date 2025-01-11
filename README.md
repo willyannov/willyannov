@@ -141,7 +141,7 @@ Atualmente, estou cursando **Tecnologia da Informação** pela **UNIVESP** e me 
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api?username=willyannov&show_icons=true&theme=transparent" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyannov&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
